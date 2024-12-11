@@ -1,0 +1,1 @@
+build --remote_cache=http://localhost:7171/cache/bazel
